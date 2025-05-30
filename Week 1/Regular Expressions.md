@@ -13,7 +13,7 @@ Regular expressions are a powerful tool for pattern matching in text. They are w
 
 To get started with understanding how regular expressions work in Python, please watch the following video:
 
-[Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o&t=196s)
+[Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o{:target="_blank"})
 
 **Description:** This video is a Python tutorial that explains how to work with regular expressions (regex) using the built-in `re` module. It covers how to write and match specific text patterns in Python.  
 (It's recommened to watch the video at 2x speed)
