@@ -19,8 +19,7 @@ Key Features:<br>
 ```import numpy as np```
 ## Arrays in NumPy
 In NumPy, the core data structure is the ndarray (n-dimensional array). It is a powerful, flexible, and efficient way to store and manipulate large data sets.
-```import numpy as np
-
+```
 arr = np.array([1, 2, 3]) # 1D array
 arr2d = np.array([[1, 2], [3, 4]]) # 2D array
 ```
