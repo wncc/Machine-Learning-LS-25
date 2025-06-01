@@ -1,17 +1,3 @@
-# SciKit Learn and Preprocessing
-Scikit-learn is a powerful and widely-used open-source Python library for machine learning. It provides simple and efficient tools for data mining and data analysis, and is built on top of NumPy, SciPy, and matplotlib.
-
-Key Features:
-- Supervised Learning: Supports algorithms like linear regression, logistic regression, decision trees, support vector machines (SVM), and more.
-
-- Unsupervised Learning: Includes clustering (e.g., K-means), dimensionality reduction (e.g., PCA), and others.
-
-- Model Selection: Tools for cross-validation, grid search, and evaluation metrics.
-
-- Preprocessing: Functions for scaling, normalization, encoding categorical features, etc.
-
-- Easy-to-use API: Consistent interface and integration with other Python tools make it beginner-friendly and efficient for rapid development.
-
 ## Installing Scikit Learn
 ```
 pip isntall scikit-learn
