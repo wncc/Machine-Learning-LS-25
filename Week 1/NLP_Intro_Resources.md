@@ -12,8 +12,6 @@ Below are some carefully curated resources to help you get started with NLP:
 
 This video provides a beginner-friendly explanation of various NLP techniques and concepts. Ideal for visual learners who prefer guided instruction.
 
----
-
 ## Comprehensive Articles on NLP Pipelines:
 
 For learners who prefer reading over watching video content, here are some comprehensive written resources. These materials offer in-depth explanations and structured insights into the various stages of the NLP pipeline.
@@ -24,7 +22,7 @@ For learners who prefer reading over watching video content, here are some compr
 **Natural Language Processing (NLP) Pipeline**  
 [https://www.geeksforgeeks.org/natural-language-processing-nlp-pipeline/](https://www.geeksforgeeks.org/natural-language-processing-nlp-pipeline/)
 
-This articles offer a structured overview of the steps involved in an NLP pipeline, including text preprocessing, tokenization, vectorization, and more.
+These articles offer a structured overview of the steps involved in an NLP pipeline, including text preprocessing, tokenization, vectorization, and more.
 
 ---
 
