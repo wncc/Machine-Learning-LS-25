@@ -3,8 +3,6 @@ We're excited to begin this journey into the world of Machine Learning with you.
 
 Following this, we'll explore the fundamentals of Regular Expressions (Regex) and gain a high-level understanding of the Natural Language Processing (NLP) pipeline.
 
-Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey into machine learning together!
-
 1. **[ML Libraries/Python Modules](./Python%20Modules):** We'll start with the Python modules of Numpy, Pandas, Matplotlib, and SciKit Learn. These modules will facilitate efficient data manipulation and data visualization which is essential for any machine learning task.
 2. **[Regular Expression (Regex)](./Regular%20Expression):** Then, we will continue by introducing the **re** Python module. This module plays a vital role in NLP by enabling efficient pattern matching and text preprocessing.
 3. **[Intoduction to NLP Pipeline](./NLP%20Pipeline):** To conclude the week, we’ll introduce the Natural Language Processing (NLP) pipeline - a structured sequence of steps used to process and analyze human language data.
