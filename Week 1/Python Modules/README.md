@@ -16,7 +16,7 @@ NumPy (Numerical Python) is a powerful open-source Python library used for numer
 To learn the basics of Numpy, go through [this document](./numpy.md) carefully.
 
 
-## Pandas:
+### Pandas:
 Pandas is an open-source Python library used for data manipulation, analysis, and cleaning. It provides easy-to-use data structures and functions, making it a powerful tool for working with structured data.
 #### Key Features:
 * **Data Structures:** 
@@ -32,10 +32,10 @@ Pandas is an open-source Python library used for data manipulation, analysis, an
 To learn the basics of Pandas, go through [this document](./pandas.md) carefully.
 
 
-## Matplotlib:
+### Matplotlib:
 
 
-## SciKit Learn:
+### SciKit Learn:
 Scikit-learn is a powerful and widely-used open-source Python library for machine learning. It provides simple and efficient tools for data mining and data analysis, and is built on top of NumPy, SciPy, and matplotlib.
 
 #### Key Features:
