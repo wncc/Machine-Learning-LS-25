@@ -1,4 +1,4 @@
-## Welcome to Week 1 of our Machine Learning Course
+## Welcome to Week 1
 We're excited to begin this journey into the world of Machine Learning with you. This week, we'll start by building a strong foundation with some essential tools: NumPy, Pandas, Matplotlib and SciKit Learn - key libraries for data manipulation and visualization.
 
 Following this, we'll explore the fundamentals of Regular Expressions (Regex) and gain a high-level understanding of the Natural Language Processing (NLP) pipeline.
