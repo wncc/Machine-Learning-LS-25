@@ -1,17 +1,3 @@
-# NumPy
-<p>NumPy (Numerical Python) is a powerful open-source Python library used for numerical and scientific computing. It provides support for large multi-dimensional arrays and matrices, along with a collection of high-level mathematical functions to operate on these arrays.
-
-Key Features:<br>
-- Ndarray: Central data structure in NumPy, an efficient multi-dimensional array object.
-
-- Mathematical Operations: Supports element-wise operations, linear algebra, statistics, and more.
-
-- Broadcasting: Automatically expands arrays of different shapes for arithmetic operations.
-
-- Integration: Works seamlessly with other libraries like SciPy, pandas, and matplotlib.
-
-- Performance: Fast and memory-efficient compared to native Python lists.</P>
-
 ## Installing and Importing Numpy 
 ### For Windows/macOS/Linux
 ``` pip install numpy ```
