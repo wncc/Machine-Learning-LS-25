@@ -1,25 +1,3 @@
-# Pandas
-Pandas is an open-source Python library used for data manipulation, analysis, and cleaning. It provides easy-to-use data structures and functions, making it a powerful tool for working with structured data.
-
-## Key Features:
-### Data Structures:
-
-- Series: One-dimensional labeled array.
-
-- DataFrame: Two-dimensional labeled table (like an Excel spreadsheet or SQL table).
-
-### Data Handling:
-
-- Importing and exporting data from various formats (CSV, Excel, SQL, JSON).
-
-- Handling missing data (NaN).
-
-- Filtering, sorting, grouping, and aggregation.
-
-- Merging and joining datasets.
-
-- Time series support.
-
 ## Installing Pandas
 ```
  pip install pandas
