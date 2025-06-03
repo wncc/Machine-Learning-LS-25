@@ -288,3 +288,8 @@ print((a == b) | (a < b))
 
  ### Output
  [ True,  True,  True,  True]
+
+##  Addition Resource
+[Pandas Tutorial](https://www.geeksforgeeks.org/pandas-tutorial/)
+<br>
+[Video Resources](https://youtu.be/vmEHCJofslg?si=KSoFDirCMorb18wr)
