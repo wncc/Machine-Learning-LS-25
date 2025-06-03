@@ -268,5 +268,8 @@ df2 = pd.DataFrame({
   1    Bob  30.0   LA     90   80000
   ```
 
-
+##  Addition Resource
+[Pandas Tutorial](https://www.geeksforgeeks.org/pandas-tutorial/)
+<br>
+[Video Resources](https://youtu.be/vmEHCJofslg?si=KSoFDirCMorb18wr)
 

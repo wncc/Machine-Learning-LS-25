@@ -289,7 +289,72 @@ print((a == b) | (a < b))
  ### Output
  [ True,  True,  True,  True]
 
-##  Addition Resource
-[Pandas Tutorial](https://www.geeksforgeeks.org/pandas-tutorial/)
+## What is Broadcasting in NumPy?
+Broadcasting is a powerful feature in NumPy that allows array operations between arrays of different shapes without explicitly replicating data.
+
+It automatically "stretches" the smaller array across the larger one so that they have compatible shapes.
+
+## Examples
+### 1. Add Scalar to Array
+```
+import numpy as np
+
+a = np.array([1, 2, 3])
+b = 5
+
+result = a + b
+print(result) 
+```
+### Output: 
+```
+[6 7 8]
+```
+Here, b (a scalar) is broadcast to the shape of a.
+### 2. Add 1D to 2D Array
+```
+A = np.array([[1, 2, 3],
+              [4, 5, 6]])
+
+B = np.array([10, 20, 30])
+
+result = A + B
+print(result)
+```
+### Output:
+
+```
+[[11 22 33]
+ [14 25 36]]
+ ```
+Here, B is broadcast across the rows of A.
+
+### 3. Column-wise Broadcasting
+```
+A = np.array([[1, 2, 3],
+              [4, 5, 6]])
+
+B = np.array([[10],
+              [20]])
+`
+
+result = A + B
+print(result)
+```
+### Output:
+```
+[[11 12 13]
+ [24 25 26]]
+ ```
+Here, B is broadcast across the columns of A
+### Broadcasting Error Example
+```
+a = np.array([1, 2, 3])
+b = np.array([[1], [2]])
+
+a + b  # This will raise an error due to incompatible shapes
+```
+
+## Additional Resources
+[NumPy Tutorial](https://www.geeksforgeeks.org/python-numpy/)
 <br>
-[Video Resources](https://youtu.be/vmEHCJofslg?si=KSoFDirCMorb18wr)
+[Video Resources](https://youtu.be/9JUAPgtkKpI?si=9q9uT_IEfcR7SZ2U)
