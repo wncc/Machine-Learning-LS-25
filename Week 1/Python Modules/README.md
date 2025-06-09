@@ -33,6 +33,13 @@ To learn the basics of Pandas, go through [this document](./pandas.md) carefully
 
 
 ### Matplotlib:
+Matplotlib is a popular Python library used for data visualization. It provides functions for creating a wide range of static, animated, and interactive plots in Python.
+#### Key Features:
+* Main Module: matplotlib.pyplot is commonly used for plotting. It works similarly to MATLAB.
+* Basic Plots: Line plots, bar charts, histograms, scatter plots, pie charts, etc.
+* Customization: You can customize titles, labels, legends, colors, and styles.
+* Integration: Works well with NumPy, pandas, and Jupyter notebooks.
+* Interactive Features: Zoom, pan, and save options in plot windows.
 
 
 ### SciKit Learn:
