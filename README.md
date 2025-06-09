@@ -8,6 +8,6 @@ Access the [Week 1](./Week%201) resources here!
  * Utkarsh Tanwar <8826799261>
  * Sarthak Somani <9739348680>
  * Avnish More <9167339950>
- * Veer <9449007525>
+ * Veeraditya Parakh <9449007525>
 
 Coders. Together. Strong.
