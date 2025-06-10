@@ -6,7 +6,7 @@ Following this, we'll explore the fundamentals of Regular Expressions (Regex) an
 1. **[ML Libraries/Python Modules](./Python%20Modules):** We'll start with the Python modules of Numpy, Pandas, Matplotlib, and SciKit Learn. These modules will facilitate efficient data manipulation and data visualization which is essential for any machine learning task.
 2. **[Regular Expression (Regex)](./Regular%20Expression):** Then, we will continue by introducing the **re** Python module. This module plays a vital role in NLP by enabling efficient pattern matching and text preprocessing.
 3. **[Intoduction to NLP Pipeline](./NLP%20Pipeline):** To conclude the week, we’ll introduce the Natural Language Processing (NLP) pipeline - a structured sequence of steps used to process and analyze human language data.
-4. **[Assignments](./Assignment1):** It's time to put our knowledge to the test. Let's tackle the assignments and practice our skills to reinforce our understanding.
+4. **[Assignments](Assignment1.pdf):** It's time to put our knowledge to the test. Let's tackle the assignments and practice our skills to reinforce our understanding.
 
 
 >[!Note]
