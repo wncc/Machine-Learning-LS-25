@@ -54,4 +54,4 @@ Scikit-learn is a powerful and widely-used open-source Python library for machin
 * **Easy-to-use API:** Consistent interface and integration with other Python tools make it beginner-friendly and efficient for rapid development.
  
  
- To learn the basics of SciKit Learn, go through [this document](./scikit.md) carefully.
+ To learn the basics of SciKit Learn, go through [this document](./sklearn.md) carefully.
