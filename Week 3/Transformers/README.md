@@ -38,7 +38,7 @@ LSTM solves this using a memory cell and gates that control information flow.
 ## Encoder-Decoder
 The Encoder-Decoder is a neural network architecture designed to handle sequence-to-sequence (seq2seq) tasks — where input and output are both sequences, possibly of different lengths.
 
-[Encoder-Decoder (Seq2Seq)](https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf4)
+[Encoder-Decoder (Seq2Seq)](https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b)
 
 [Video Resources](https://www.youtube.com/watch?v=L8HKweZIOmg)
 
