@@ -228,6 +228,7 @@ Share models on the **Model Hub**.
 - Hugging Face in 10 Minutes - https://www.youtube.com/watch?v=9gBC9R-msAk
 - Official Hugging Face Course - https://huggingface.co/learn/nlp-course
 - CodeBasics Transformers & HF playlist (very beginner friendly) - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb7F5cnA6WhgZfz3BlvkxLx
+- Crash Course for Hugging face (in 1 hour) - https://www.youtube.com/watch?v=b665B04CWkI 
 - Hugging Face GitHub Repo - https://github.com/huggingface/awesome-huggingface
 
 ---
