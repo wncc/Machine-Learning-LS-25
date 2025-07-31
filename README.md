@@ -1,7 +1,8 @@
   # Machine-Learning-LS-25
- **The Web and Coding Club, IIT Bombay welcomes you to the Introduction to Machine Learning Course where we aim to deep dive into the world of Natural Language Processing.**
+ **The Web and Coding Club, IIT Bombay, welcomes you to our Course: Introduction to Machine Learning and NLP, where we aim to deep dive into the world of Natural Language Processing.**
 
-Access the [Week 1](./Week%201) resources here!
+Course Completed: Thank you for your interest and for being part of our course. We hope you had a great learning experience and have started on your Machine Learning journey!
+For more such resources and updates, do take a look at our website: [https://wncc.tech-iitb.org/](https://wncc.tech-iitb.org/)
 
  [Course Rules & Evaluation Criteria](https://docs.google.com/document/d/1VXAr-l7BBJstWfz1UwUue3xrq0t1RqNMKU5LA4UUg3s/edit?usp=sharing)
  
